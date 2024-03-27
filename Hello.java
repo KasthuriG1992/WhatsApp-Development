@@ -8,6 +8,6 @@ public class Hello {
 		    // add two numbers
 		    int sum = first + second;
 		    System.out.println(first + " + " + second + " = "  + sum);
-		    System.out.println("Addition Done");
+		    System.out.println("Addition Done successfully");
 		  }
 		}
